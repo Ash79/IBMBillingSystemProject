@@ -1,0 +1,4 @@
+---
+applications:
+- name: ibm_invoice
+  memory: 256M
